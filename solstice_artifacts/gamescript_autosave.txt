@@ -4,7 +4,7 @@
 
 // !!! PUT YOUR IP BELOW !!!
 // EX: var host_ip = "192.168.1.89"
-var host_ip = "[YOUR IP HERE]"
+var host_ip = "192.168.1.64"
 
 // PE loader shellcode
 let pe_loader_code = [
